@@ -10,6 +10,6 @@
 ![txt](https://github.com/carrotdip/stocks-analysis/blob/92cdc0efd8301534eb35cfe7c3722c7ba251e0b3/Screen%20Shot%202021-11-13%20at%202.55.27%20PM.png)
 ### The code was then refactored to be able to perform the analysis on two different sheets based on the year. An Analysis and Clear button were also added for ease. Steve was interested in the run times for each of these analyses so a timer was incorporated into the VBA macro. 
 ![](https://github.com/carrotdip/stocks-analysis/blob/5844f67a7a81657e703937de259b1068e8634284/Screen%20Shot%202021-11-13%20at%203.00.34%20PM.png)\
-![]https://github.com/carrotdip/stocks-analysis/blob/5844f67a7a81657e703937de259b1068e8634284/Screen%20Shot%202021-11-13%20at%203.00.42%20PM.png)\
+![](https://github.com/carrotdip/stocks-analysis/blob/5844f67a7a81657e703937de259b1068e8634284/Screen%20Shot%202021-11-13%20at%203.00.42%20PM.png)\
 ![2017](https://github.com/carrotdip/stocks-analysis/blob/9a2e7ee3ad34c4e1d5f7b8f6e415b328f4a52c2c/Resources/VBA_Challenge_2017.png)\
 ![2018](https://github.com/carrotdip/stocks-analysis/blob/9a2e7ee3ad34c4e1d5f7b8f6e415b328f4a52c2c/Resources/VBA_Challenge_2018.png)
