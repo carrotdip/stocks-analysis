@@ -11,10 +11,10 @@ These values were then outputted onto a new spreadsheet within the Excel file. A
 The code was then refactored to be able to perform the analysis on two different sheets based on the year. An Analysis and Clear button were also added for ease. Steve was interested in the run times for each of these analyses so a timer was incorporated into the VBA macro. 
 ![](https://github.com/carrotdip/stocks-analysis/blob/5844f67a7a81657e703937de259b1068e8634284/Screen%20Shot%202021-11-13%20at%203.00.34%20PM.png)\
 ![](https://github.com/carrotdip/stocks-analysis/blob/5844f67a7a81657e703937de259b1068e8634284/Screen%20Shot%202021-11-13%20at%203.00.42%20PM.png)
-The outputs for the timer is as follows:
+The outputs for the timer is as follows:\
 ![2017](https://github.com/carrotdip/stocks-analysis/blob/9a2e7ee3ad34c4e1d5f7b8f6e415b328f4a52c2c/Resources/VBA_Challenge_2017.png)\
 ![2018](https://github.com/carrotdip/stocks-analysis/blob/9a2e7ee3ad34c4e1d5f7b8f6e415b328f4a52c2c/Resources/VBA_Challenge_2018.png)
-The results of the 12 stocks analyses produced the following results:
+The results of the 12 stocks analyses produced the following results:\
 ![txt](https://github.com/carrotdip/stocks-analysis/blob/c3a7646eb673f2e978f25421318433b4aedafd54/All%20Stocks%20(2017).png)
 ![txt](https://github.com/carrotdip/stocks-analysis/blob/c3a7646eb673f2e978f25421318433b4aedafd54/All%20Stocks%20(2018).png)
 
