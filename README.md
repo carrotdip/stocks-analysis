@@ -16,7 +16,7 @@ The outputs for the timer is as follows:\
 ![2018](https://github.com/carrotdip/stocks-analysis/blob/9a2e7ee3ad34c4e1d5f7b8f6e415b328f4a52c2c/Resources/VBA_Challenge_2018.png)\
 The results of the 12 stocks analyses produced the following results:\
 ![txt](https://github.com/carrotdip/stocks-analysis/blob/c3a7646eb673f2e978f25421318433b4aedafd54/All%20Stocks%20(2017).png)\
-![txt](https://github.com/carrotdip/stocks-analysis/blob/c3a7646eb673f2e978f25421318433b4aedafd54/All%20Stocks%20(2018).png)\
+![txt](https://github.com/carrotdip/stocks-analysis/blob/c3a7646eb673f2e978f25421318433b4aedafd54/All%20Stocks%20(2018).png)
 
 ## Summary
 Refractoring code is beneficial to clean up and simplify code. Simplifying the code will allow for easier navigation and interpretation, and make debugging (in the future) much more efficient. Refactoring, however, does take more time and effort for the same outcome, but it will be more beneficial in the long run. The advantages of refactoring in this analysis specifically allowed for the same analysis but with a shorter script. The way I refactored the code allowed for one loop to run, rather than a nested loop. This will save on time and resources when analyzing larger amounts of data. It will also be easier to incoporate new data sets for years to come. 
